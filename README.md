@@ -1,6 +1,6 @@
 # Сайт визитка (Портфолио) Антон Денисенков
 
-[https://portfolio-qwerander.vercel.app/]Посмотреть сайт.
+[https://portfolio-qwerander.vercel.app](Посмотреть сайт)
 
 ## Available Scripts
 
